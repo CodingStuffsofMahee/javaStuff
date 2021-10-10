@@ -17,7 +17,7 @@ public class randomNumbers {
 		
 		int i=0;
 		while (i<=number) {
-			System.out.println(i);
+//			System.out.println(i);
 			int number_depict=random.nextInt(number);
 			
 //			System.out.println(number_depict+"number depicted");
